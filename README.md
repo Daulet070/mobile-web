@@ -1,1 +1,1 @@
-# mobile-web https://daulet070.github.io/mobile-web/
+# Glassmorphism https://daulet070.github.io/mobile-web/
